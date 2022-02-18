@@ -1,1 +1,2 @@
-# katas
+# Hola Mundo
+Mi primer repositorio
